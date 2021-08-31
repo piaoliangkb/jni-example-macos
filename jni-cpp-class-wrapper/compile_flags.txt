@@ -1,0 +1,4 @@
+-I
+"/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include"
+-I
+"/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/include/darwin"
